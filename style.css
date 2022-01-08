@@ -2,6 +2,9 @@ body{
     font-family: 'Luxurious Roman', cursive;
     margin: 0;
 }
+section{
+    margin-bottom: 100px;
+}
 
 
 .half-width{
@@ -77,4 +80,7 @@ h1{
 }
 #illus-img3{
     background-color:sandybrown;
+}
+.add-pad{
+    
 }
