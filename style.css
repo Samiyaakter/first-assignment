@@ -2,9 +2,7 @@ body{
     font-family: 'Luxurious Roman', cursive;
     margin: 0;
 }
-span{
-    display: block;
-}
+
 section{
     display:flex;
 }
@@ -16,7 +14,7 @@ section{
     width: 80%;
    
 }
-img{
+.person-img{
     width: 350px;
     height: 350px;
 }
@@ -41,4 +39,25 @@ p{
 h1{
     border-left: 3px solid rgb(76, 42, 226);
     padding-right: 3px;
+}
+#header-2{
+    text-align: center; 
+    font-size: 30px;
+}
+.flexible-sec{
+    display: flex;
+}
+.mission-22{
+    width: 33%;
+    float: lest;
+    margin: 0 4%;
+    background-color: white;
+    box-shadow: 0px 10px 20px #00000017;
+    border-radius: 20px;
+    padding: 20px 30px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.mission-22 img{
+    width: 30%;
 }
