@@ -81,8 +81,11 @@ h1{
     background-color:sandybrown;
 }
 footer{
-    background-color: rgba(91, 9, 146, 0.219);
+    background-color: black;
 }
 .color-white{
     color: white;
+}
+.hardwork{
+    text-align: center;
 }
